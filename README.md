@@ -21,7 +21,7 @@ The analysis aims to provide insights into customer engagement, segmentation for
 - **R**: For additional statistical analysis, visualizations, and hypothesis testing.
 - **Jupyter Notebook**: For documenting analysis in an interactive environment.
 
-## 📁 Files Included
+## Files Included
 - **`turtle_reviews.csv`**: Details on customer gender, age, remuneration, spending score, loyalty points, education, language, platform, review and summary across products.
 - **`metadata_turtle_games.txt`**: Details of the data set, data quality, and reference.
 
