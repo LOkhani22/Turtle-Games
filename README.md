@@ -1,4 +1,4 @@
-# Turtle-Games (Pending)
+# Turtle-Games (70%)
 Analysis of sales and customer engagement data for Turtle Games, focusing on loyalty points, customer segmentation, and sentiment analysis of reviews to inform business strategies and improve sales performance.
 
 ## Project Overview
